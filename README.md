@@ -1,6 +1,7 @@
 # andela-teams-cli
 This is the command line interface (CLI) for [Andela Teams](https://andela-teams.herokuapp.com). This consumes the andela-teams-core server (https://andela-teams-core.herokuapp.com) in carrying out its tasks.
 
+[![Andela](https://andela-badge.herokuapp.com/)](https://andela.com)
 [![Build Status](https://travis-ci.org/andela-stuff/andela-teams-cli.svg?branch=master)](https://travis-ci.org/andela-stuff/andela-teams-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
